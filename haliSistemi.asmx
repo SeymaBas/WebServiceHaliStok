@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="haliSistemi.asmx.cs" Class="WebServiceHaliStok.Service1" %>
